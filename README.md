@@ -1,193 +1,239 @@
 <h1 align="center">Hi 👋, I'm Saad bin Muzamil</h1>
 
 <h3 align="center">
-Senior Full Stack Engineer | Laravel • Django • React.js • Vue.js | Microservices | AWS
+Senior Full Stack Engineer • Laravel • Django • React.js • AWS • Scalable SaaS & Telecom Systems
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaadMuzamil&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SaadMuzamil?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/SaadMuzamil?label=Stars&style=for-the-badge&color=yellow" />
+Building scalable APIs, SaaS platforms, fintech systems, and cloud-native applications.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadMuzamil&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadMuzamil&theme=tokyonight" height="170"/>
+  <a href="https://github.com/SaadMuzamil">
+    <img src="https://komarev.com/ghpvc/?username=SaadMuzamil&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/SaadMuzamil">
+    <img src="https://img.shields.io/github/followers/SaadMuzamil?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am a **Senior Full Stack Engineer** with 6+ years of experience building scalable SaaS platforms, fintech systems, telecom solutions, and modern web applications.
+I’m a Senior Full Stack Engineer with 6+ years of experience building scalable SaaS products, telecom systems, fintech applications, REST APIs, and cloud-based platforms.
 
-I specialize in designing **high-performance, scalable backend architectures** and **modern frontend experiences**.
+I specialize in:
+
+- Backend Architecture
+- Scalable API Development
+- Microservices
+- Cloud Infrastructure
+- Frontend Engineering
+- Performance Optimization
+- Distributed Systems
+
+Currently working on global telecom, fintech, automation, and property rental platforms.
 
 ---
 
 # 🛠 Tech Stack
 
 ## 💻 Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django,php,python,nodejs" />
+</p>
 
 ## 🎨 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-skyblue?style=for-the-badge&logo=tailwindcss)
 
-## ⚙️ DevOps & Database
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,tailwind" />
+</p>
 
----
+## ⚙️ DevOps & Infrastructure
 
-# 💼 Experience
-
-## 🔹 Full Stack Engineer — Activate Wireless
-📅 Dec 2021 – Present
-
-### Responsibilities
-- Building scalable APIs using Laravel & Django
-- Developing frontend applications using React.js & Vue.js
-- Designing microservices-based architecture
-- Integrating telecom & payment APIs
-- Optimizing performance for high-traffic systems
-- Managing Docker & AWS deployments
-- Implementing background job processing systems
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,redis,mysql,postgres,nginx,linux" />
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
----
+## 🌍 eSIMCard Platform
 
-## 🌍 eSIMCard Platform  
 🔗 https://esimcard.com/
 
-A global eSIM marketplace platform for international connectivity.
+Global telecom platform providing eSIM connectivity solutions across 190+ countries.
 
 ### 🚀 Key Contributions
-- Built scalable backend APIs
-- Developed frontend modules (React + Vue)
-- Integrated telecom provider APIs
-- Implemented payment gateway systems
-- Built real-time provisioning system
-- Improved performance & scalability
 
-### 🛠 Tech Stack
-Laravel • Django • React.js • Vue.js • MySQL • AWS • Docker
+- Developed scalable telecom APIs
+- Built frontend modules using React.js & Vue.js
+- Integrated telecom provider APIs
+- Implemented secure payment workflows
+- Optimized asynchronous processing systems
+- Improved platform scalability & performance
+
+### 🛠 Stack
+
+`Laravel` • `Django` • `React.js` • `Vue.js` • `MySQL` • `Docker` • `AWS`
+
+---
+
+## 📈 Fintech & Trading Platforms
+
+### 🌐 Platforms
+
+- https://fundexprop.com/
+- https://nysmarkets.com/
+- https://app.elitedeltrading.com/
+
+Worked on scalable trading and fintech systems focused on performance, security, and real-time data processing.
+
+### 🚀 Contributions
+
+- Backend systems & REST APIs
+- Trader dashboards & analytics
+- Authentication & authorization systems
+- Payment gateway integrations
+- Performance optimization
+- Responsive frontend engineering
+
+### 🛠 Stack
+
+`Laravel` • `React.js` • `Django` • `MySQL` • `Docker`
+
+> Some implementation details are protected under NDA agreements.
 
 ---
 
 ## 🏠 Hajiskom — Property Rental Platform
 
-A rental marketplace for booking properties.
+Rental marketplace for apartments, villas, and property bookings.
 
 ### Features
-- Property listings
-- Booking system
-- Search & filters
-- User authentication
 
-### Tech Stack
-Django • React.js • MySQL
+- Property listings
+- Booking workflows
+- User authentication
+- Search & filtering
+- Responsive UI
+
+### 🛠 Stack
+
+`Django` • `React.js` • `MySQL`
 
 ---
 
 ## 🤖 UrbanForm — AI Zoning Platform
 
-AI-powered zoning and compliance system for architects.
+AI-powered zoning and compliance platform for architects and developers.
 
 ### Features
+
 - Interactive zoning maps
-- Automated reports
-- Regulation analysis
+- Automated zoning reports
+- Site regulation analysis
+- AI-powered calculations
 
-### Tech Stack
-Laravel • React.js • MySQL
+### 🛠 Stack
 
----
-
-## 🍽 Smart Table — Restaurant System
-
-Restaurant ordering & management platform.
-
-### Features
-- Digital menus
-- Online ordering
-- Admin dashboard
-
-### Tech Stack
-PHP • CodeIgniter • JavaScript • MySQL
+`Laravel` • `React.js` • `MySQL`
 
 ---
 
-## 💼 Fintech & Trading Platforms
+# 💼 Professional Experience
 
-Worked on proprietary trading and fintech systems (confidential environments).
+## 🔹 Activate Wireless — Full Stack Engineer
+📅 Dec 2021 — Present
 
-### Platforms
-- https://fundexprop.com/
-- https://nysmarkets.com/
-- https://app.elitedeltrading.com/
-
-### Contributions
-- Built scalable backend systems
-- Developed trader dashboards
-- Integrated secure authentication systems
-- Implemented payment & trading APIs
-- Improved system performance & reliability
+- Building scalable telecom & SaaS platforms
+- Developing APIs using Laravel & Django
+- Frontend engineering using React.js & Vue.js
+- Payment & telecom integrations
+- Dockerized infrastructure on AWS
+- Performance optimization & async processing
 
 ---
+
+## 🔹 OneClout — Software Engineer
+📅 Nov 2020 — Dec 2021
+
+- Backend API development
+- Frontend engineering
+- AI-powered platform development
+- Security & performance improvements
+- Code reviews & debugging
+
+---
+
+## 🔹 Aloglix — Junior Software Engineer
+📅 Sep 2019 — Nov 2020
+
+- Frontend development
+- Backend integrations
+- Restaurant & agriculture systems
+- Responsive UI implementation
+
+---
+
+# 🧠 Core Expertise
+
+✔ REST API Development  
+✔ SaaS Platforms  
+✔ Telecom Systems  
+✔ Fintech Platforms  
+✔ Microservices  
+✔ Docker & AWS  
+✔ Background Jobs & Queues  
+✔ Payment Gateway Integrations  
+✔ Performance Optimization  
+✔ Clean Architecture  
+✔ Full Stack Web Development  
+
+---
+
+# 📚 Currently Exploring
+
+- Distributed Systems
+- Advanced System Design
+- Scalable Microservices
+- AI Integrations
+- Cloud Infrastructure Patterns
+
 
 # 🏆 Certifications
 
 - Agile Software Development
-- REST APIs in Laravel
-- Django REST Framework
-- React Essentials
-- Docker Fundamentals
+- Building RESTful APIs in Laravel
+- Building RESTful APIs with Django
+- Learning Docker
 - GitHub Professional Certificate
-- Python Certification (Robocorp)
+- Natural Language Generation with Python
 
 ---
-
-# 📚 Currently Learning
-
-- System Design & Architecture
-- Distributed Systems
-- AI Integrations
-- Advanced Microservices
-- Cloud Scaling (AWS)
-
 
 # 🌍 Connect With Me
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/SaadMuzamil">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 
 <a href="https://linkedin.com/in/saad-muzamil">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 </p>
 
----
-
 📧 Email: saadmuzamil2@gmail.com  
-🌐 Portfolio: https://esimcard.com/  
-💻 GitHub: https://github.com/SaadMuzamil  
 💼 LinkedIn: https://linkedin.com/in/saad-muzamil  
+💻 GitHub: https://github.com/SaadMuzamil  
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building **scalable backend systems**, optimizing APIs, and turning complex ideas into production-ready systems 🚀
+I enjoy designing scalable backend systems, optimizing APIs, and transforming complex business ideas into production-ready software 🚀
