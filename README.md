@@ -148,7 +148,7 @@ AI-powered zoning and compliance platform for architects and developers.
 # 💼 Professional Experience
 
 ## 🔹 Activate Wireless — Full Stack Engineer
-📅 Dec 2021 — Present
+📅 Dec 2021 — Aug 2025
 
 - Building scalable telecom & SaaS platforms
 - Developing APIs using Laravel & Django
